@@ -7,3 +7,5 @@ alias drm='docker rm'
 alias drmi='docker rmi'
 alias dcup='docker-compose up -d'
 alias dcdown='docker-compose down'
+alias ddf='docker system df'
+
